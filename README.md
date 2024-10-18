@@ -13,4 +13,6 @@
 
 ![image](https://github.com/user-attachments/assets/32ebd709-5d0c-4ccb-870e-ea5433abf6b7)
 
+# IDE - Intellij IDEA 2024.2.2 (Community Edition)
+![image](https://github.com/user-attachments/assets/6e747fda-cb38-46af-955e-1a740d719960)
 
